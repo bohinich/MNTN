@@ -1,0 +1,37 @@
+/* Gilroy */
+@font-face {
+    font-family: "Gilroy";
+    src: url("./Gilroy-Regular.woff2") format("woff2");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: url("./Gilroy-Bold.woff2") format("woff2");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: url("./Gilroy-Bold.woff2") format("woff2");
+    font-weight: 700;
+}
+
+/* Chronicle Display */
+@font-face {
+    font-family: "Chronicle Display";
+    src: url("./ChronicleDisplay-Regular.woff2") format("woff2");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Chronicle Display";
+    src: url("./ChronicleDisplay-Regular.woff2") format("woff2");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Chronicle Display";
+    src: url("./ChronicleDisplay-Bold.woff2") format("woff2");
+    font-weight: 700;
+}

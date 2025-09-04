@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 50;
+}
+
+.logo {
+    font-family: "Chronicle Display", serif;
+    font-size: 32px;
+    color: #d9d9d9;
+    letter-spacing: 2px;
+}
+
+.nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+}
+
+.nav a:hover {
+    color: grey;
+}
+
+.account-btn {
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.account-btn:hover {
+    color: grey;
+}
